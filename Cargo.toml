@@ -1,0 +1,6 @@
+[package]
+name = "mindcrush"
+version = "0.1.0"
+authors = ["Taylor Foxhall <lxmachina@gmail.com>"]
+
+[dependencies]
